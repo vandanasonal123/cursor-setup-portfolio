@@ -23,6 +23,7 @@ Portfolio setup project using Cursor IDE, Claude Code, and Codex
 - Configured Git identity using the following commands:
 
 git config --global user.name "Vandana Sonal"
+
 git config --global user.email "vandanasonal12392@gmail.com"
 
 - Retried the commit after configuration, and it worked successfully.
