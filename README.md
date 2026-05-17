@@ -11,12 +11,15 @@ Portfolio setup project using Cursor IDE, Claude Code, and Codex
 1. Installed Cursor IDE
 2. Installed Claude Code extension
 
-![Claude Code Extension](images/claude_code.png)
-
+<p align="center">
+<img src="images/claude_code.png" width="500">
+</p>
 
 3. Installed Codex extension
 
-![Codex Extension](images/codex.png)
+<p align="center">
+<img src="images/codex.png" width="500">
+</p>
 
 
 4. Created GitHub repository
@@ -27,7 +30,9 @@ Portfolio setup project using Cursor IDE, Claude Code, and Codex
 ## Issues Faced
 - Git commit initially failed because Git could not detect the author identity (user name and email were not configured).
 
-![Issue Faced ](images/issue.png)
+<p align="center">
+<img src="images/issue.png" width="500">
+</p>
 
 ## Solutions
 - Configured Git identity using the following commands:
